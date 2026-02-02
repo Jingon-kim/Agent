@@ -18,6 +18,21 @@ Agent/
 │   ├── commands/               # 배포 명령어 모음
 │   ├── workflows/              # 배포 워크플로우
 │   └── guides/                 # 가이드 문서
+├── openrouter-expert/          # OpenRouter 전문 에이전트 (30년+ 경력)
+│   ├── AGENT.md                # 에이전트 역할 및 기능 정의
+│   ├── commands/               # API 호출 명령어 모음
+│   ├── workflows/              # 무료 사용 워크플로우
+│   └── guides/                 # 비용 최적화 가이드
+├── ad-monetization-expert/     # 광고 수익화 전문 에이전트 (30년+ 경력)
+│   └── AGENT.md                # 에이전트 역할 및 기능 정의
+├── prompt-engineering-expert/  # 프롬프트 엔지니어링 전문 에이전트 (30년+ 경력)
+│   └── AGENT.md                # 프롬프트 최적화 전문가
+├── rag-expert/                 # RAG 전문 에이전트 (30년+ 경력)
+│   └── AGENT.md                # 검색 증강 생성 전문가
+├── seo-expert/                 # SEO 전문 에이전트 (30년+ 경력)
+│   └── AGENT.md                # 검색엔진 최적화 전문가
+├── design-pattern-expert/      # 설계 패턴 전문 에이전트 (30년+ 경력)
+│   └── AGENT.md                # 소프트웨어 아키텍처 전문가
 └── [future-agents]/            # 추가 에이전트들
 ```
 
@@ -37,6 +52,12 @@ Agent/
 |---------|------|------|
 | [Git 전문가](./git-expert/AGENT.md) | ✅ 완료 | 30년+ Git 경력의 버전 관리 전문가 |
 | [Vercel 전문가](./vercel-expert/AGENT.md) | ✅ 완료 | 클라우드 배포 및 호스팅 전문가 |
+| [OpenRouter 전문가](./openrouter-expert/AGENT.md) | ✅ 완료 | 30년+ AI/API 경력의 무료 서비스 최적화 전문가 |
+| [광고 수익화 전문가](./ad-monetization-expert/AGENT.md) | ✅ 완료 | 30년+ 광고 수익화 및 애드테크 전문가 |
+| [프롬프트 엔지니어링 전문가](./prompt-engineering-expert/AGENT.md) | ✅ 완료 | 30년+ AI 프롬프트 최적화 전문가 |
+| [RAG 전문가](./rag-expert/AGENT.md) | ✅ 완료 | 30년+ 검색 증강 생성 시스템 전문가 |
+| [SEO 전문가](./seo-expert/AGENT.md) | ✅ 완료 | 30년+ 검색엔진 최적화 전문가 |
+| [설계 패턴 전문가](./design-pattern-expert/AGENT.md) | ✅ 완료 | 30년+ 소프트웨어 아키텍처 전문가 |
 
 ---
 
